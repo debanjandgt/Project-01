@@ -1,0 +1,223 @@
+
+      body{
+        margin: 0;
+        overflow: hidden;
+      }
+
+      @font-face {
+        font-family: Striker;
+        src: url(E:\WEB DEV\live-class-project-01\assets\Striker.otf);
+      }
+      @font-face {
+        font-family: Lustra Text;
+        src: url(E:\WEB DEV\live-class-project-01\assets\Lustra Text.otf);
+      }
+      @font-face {
+        font-family: "Touche";
+        src: url(E:\WEB DEV\live-class-project-01\assets\Touche.tff);
+       }
+       @font-face {
+        font-family: "Kardust";
+        src: url(E:\WEB DEV\live-class-project-01\assets\Kardust.otf);
+       }
+       @font-face {
+        font-family: "Orbitron";
+        src: url(E:\WEB DEV\live-class-project-01\assets\Orbitron-Bold.ttf);
+       }
+
+      .logo{
+        position: relative;
+        left: 90px;
+        top: 40px;
+        background-color: #fff;
+        width: 120px;
+      }
+      .squarebox{
+        position: relative;
+        left: 230px;
+        top: 100px;
+        width: 300px;
+        height: 300px;
+
+      }
+      .actor{
+        position: relative;
+        left: 100px;
+        width: 380px;
+        bottom: 430px;
+      }
+      .start{
+        position: relative;
+        left: 310px;
+        width: 42px;
+        top: 70px;
+      }
+      li{
+        list-style: none;
+      }
+      #home{
+        font-family: Lustra Text;
+        position: relative;
+        bottom: 20px;
+        left: 360px;
+        font-size: 25px;
+        text-decoration: underline;
+        text-underline-offset: 1px;
+        text-underline-offset: 0.5rem;
+      }
+      #female{
+        position: relative;
+        bottom: 78px;
+        left: 485px;
+        font-size: 22px;
+        font-family: Lustra Text;
+
+        
+      }
+      #male{
+        position: relative;
+        bottom: 52px;
+        left: 620px;
+        font-size: 22px;
+        font-family: Lustra Text;
+
+        
+      }
+   
+      #FAQ{
+        position: relative;
+        bottom: 108px;
+        left: 740px;
+        font-size: 22px;
+        font-family: Lustra Text;
+
+        
+      }
+      #About{
+        position: relative;
+        bottom: 137px;
+        left: 850px;
+        font-size: 25px;
+        font-family: Lustra Text;
+
+        
+      }
+      .nav-button{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        position: relative;
+        bottom: 230px;
+        border-radius: 15px;
+        width: 140px;
+        height: 38px;
+        left: 1228px;
+        outline: black solid 1.58px;
+    
+        background-color: rgb(255, 255, 255);
+        
+        color: #515151;
+        font-size: 20px;
+
+      }
+      .s-icon{
+        position: relative;
+        bottom: 190px;
+        width: 22px;
+        left: 1190px;
+      }
+      .globe{
+       position: relative;
+       left: 175px;
+       bottom: 210px;
+       width: 60px;
+        
+        
+      }
+      .headline{
+        font-family: Orbitron;
+        color: rgb(0, 0, 0);
+        font-weight: 900;
+        position: relative;
+        left: 600px;
+        bottom: 870px;
+        font-size: 50px;
+        letter-spacing: 4.0px;
+       
+        }
+        .hero-desc{
+          position: relative;
+          left: 675px;
+          bottom: 860px;
+          font-size: 16.75px;
+          padding-right: 860px;
+        }
+        .contact{
+          position: relative;
+          left: 925px;
+          bottom:730px;
+          font-family:Calibri;
+          font-size: 22px;
+          color: #515151;
+          letter-spacing: 1.5px;
+          
+        }
+        .hero-desc{
+          font-family: Calibri;
+          color: #878787;
+         
+         
+        }
+        .fb{
+          position: relative;
+          left: 900px;
+          bottom: 750px;
+          width: 30px;
+        }
+        .msg{
+          position: relative;
+          left: 910px;
+          bottom: 750px;
+          width: 30px;
+        }
+        .ig{
+          position: relative;
+          left: 920px;
+          bottom: 750px;
+          width: 30px;
+        }
+        .wp{
+          position: relative;
+          left: 930px;
+          bottom: 750px;
+          width: 30px;
+        }
+        .email{
+          font-family: Kardust;  
+          position: relative;
+          left: 790px;
+          bottom: 800px;
+          width: 200px;
+          height: 30px;
+          border-radius: 10px;
+          background-color: rgb(255, 255, 255);  
+          color: #515151;
+          font-size: 18px;
+          letter-spacing: 0.5px;
+        }
+        .join{
+          font-family: Kardust;
+          position: relative;
+          left: 800px;
+          bottom: 800px;
+          width: 113px;
+          height: 30px;
+          border-radius: 10px;
+          background-color: rgb(0, 0, 0);
+          font-size: 17.0px;
+          color: #fff;
+        }
+        .star2{
+          position: relative;
+          left: 619px;
+          bottom: 460px;
+        }
+      
